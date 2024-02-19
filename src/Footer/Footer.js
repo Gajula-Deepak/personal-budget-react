@@ -7,7 +7,7 @@ function Footer() {
     <footer className="bottom">
       <div className="center">
         
-        <p>Changed by Ramgopal hyndav</p>
+        <p>Changed by Deepak Gajula</p>
       </div>
     </footer>
   );
